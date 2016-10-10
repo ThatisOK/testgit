@@ -1,0 +1,2 @@
+A new git repository
+
